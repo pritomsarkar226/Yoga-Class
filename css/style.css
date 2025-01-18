@@ -50,3 +50,6 @@ table {
 	font-family: 'Raleway-SemiBoldItalic';
 	src: url(../fonts/Raleway-SemiBoldItalic.ttf);
   } 
+.navbar{
+    background: yellow;
+}
