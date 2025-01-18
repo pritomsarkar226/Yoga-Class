@@ -54,6 +54,10 @@ table {
 	font-family: 'Montserrat-Black';
 	src: url(../fonts/Montserrat-Black.ttf);
   } 
+  @font-face {
+	font-family: 'Montserrat-Bold';
+	src: url(../fonts/Montserrat-Bold.ttf);
+  } 
 .navbar{
     background:#40c0d9;
 }
@@ -68,6 +72,13 @@ table {
     margin-left: 70px;
 }
 .header-title h2{
-    font-size: 150px;
+    font-size: 120px;
     font-family: 'Montserrat-Black';
+    margin-top: 100px;
+    color: #944867;
+}
+.header-title h3{
+    font-size: 70px;
+    font-family: 'Montserrat-Bold';
+    color: #944867;
 }
