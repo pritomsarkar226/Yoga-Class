@@ -47,8 +47,12 @@ table {
 	border-spacing: 0;
 }
 @font-face {
-	font-family: 'Raleway-SemiBoldItalic';
-	src: url(../fonts/Raleway-SemiBoldItalic.ttf);
+	font-family: 'Nunito-Regular';
+	src: url(../fonts/Nunito-Regular.ttf);
+  } 
+  @font-face {
+	font-family: 'Montserrat-Black';
+	src: url(../fonts/Montserrat-Black.ttf);
   } 
 .navbar{
     background:#40c0d9;
@@ -57,5 +61,13 @@ table {
     margin-left: 100px;
 }
 .navbar-nav{
-    margin-left: 100px;
+    margin-left: 150px;
+}
+.nav-item a{
+    font-size: 25px;
+    margin-left: 70px;
+}
+.header-title h2{
+    font-size: 150px;
+    font-family: 'Montserrat-Black';
 }
