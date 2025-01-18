@@ -58,6 +58,10 @@ table {
 	font-family: 'Montserrat-Bold';
 	src: url(../fonts/Montserrat-Bold.ttf);
   } 
+  @font-face {
+	font-family: 'open-sans.regular';
+	src: url(../fonts/open-sans.regular.ttf);
+  } 
 .navbar{
     background:#40c0d9;
 }
@@ -81,4 +85,9 @@ table {
     font-size: 70px;
     font-family: 'Montserrat-Bold';
     color: #944867;
+}
+.header-title h4{
+    font-family: 'open-sans.regular';
+    font-size: 20px; 
+    color: #707070;
 }
