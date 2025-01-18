@@ -53,3 +53,9 @@ table {
 .navbar{
     background:#40c0d9;
 }
+.navbar-brand{
+    margin-left: 100px;
+}
+.navbar-nav{
+    margin-left: 100px;
+}
