@@ -107,16 +107,18 @@ table {
     font-family: 'Roboto-Bold';
 }
 .about-bg{
-  background: #559ead;
+ 
 }
 .about h2{
   font-family: 'Montserrat-Bold';
   font-size: 60px;
-  color: #ffffff;
-  padding-top: 100px;
+  color: #000;
+  padding-top: 200px;
   text-transform: uppercase;
 }
 .about h3{
   font-family: 'open-sans.regular';
   font-size: 20px;
+  color: #000;
+  padding-top: 20px;
 }
