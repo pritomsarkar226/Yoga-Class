@@ -122,3 +122,17 @@ table {
   color: #000;
   padding-top: 20px;
 }
+.about ul li {
+  margin-top: 20px;
+  margin-right: 50px;
+  display: inline-block;
+}
+.about ul li a{
+  text-decoration: none;
+  font-size: 25px;
+  color:  #944867;
+}
+.choice h2{
+  font-family: 'Montserrat-Bold';
+  font-size: 60px;
+}
