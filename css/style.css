@@ -135,8 +135,17 @@ table {
 .choice h2{
   font-family: 'Montserrat-Bold';
   font-size: 60px;
+  padding-bottom: 30px;
+  margin-top: 50px;
 }
 .choice ul li{
   font-size: 30px;
   color: #707070;
+  padding-bottom: 20px;
+}
+.choich-img{
+  display: block;
+  margin-left: 50%;
+  margin-right: auto;
+  width: 50%;
 }
