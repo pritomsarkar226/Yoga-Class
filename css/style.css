@@ -136,7 +136,7 @@ table {
   font-family: 'Montserrat-Bold';
   font-size: 60px;
   padding-bottom: 30px;
-  margin-top: 50px;
+  margin-top:25%;
 }
 .choice ul li{
   font-size: 30px;
@@ -145,7 +145,6 @@ table {
 }
 .choich-img{
   display: block;
-  margin-left: 50%;
+  margin-left: 30%;
   margin-right: auto;
-  width: 50%;
 }
