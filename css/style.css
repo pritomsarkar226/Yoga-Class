@@ -136,3 +136,7 @@ table {
   font-family: 'Montserrat-Bold';
   font-size: 60px;
 }
+.choice ul li{
+  font-size: 30px;
+  color: #707070;
+}
