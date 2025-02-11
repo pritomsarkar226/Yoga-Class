@@ -199,5 +199,16 @@ table {
   background: #40c0d9;
 }
 .activity h2{
-  
+  font-family: 'Montserrat-Bold';
+  font-size: 60px;
+  color: #ffffff;
+  padding-left: 10%;
+  padding-top: 30%;
+}
+.activity h3{
+  font-family: 'open-sans.regular';
+  font-size: 25px;
+  color: #ffffff;
+  padding-left: 10%;
+  padding-top: 20px;
 }
