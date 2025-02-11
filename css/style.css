@@ -148,3 +148,7 @@ table {
   margin-left: 30%;
   margin-right: auto;
 }
+.choice button{
+  background: #944867;
+  color: #ffffff;
+}
