@@ -151,4 +151,10 @@ table {
 .choice button{
   background: #944867;
   color: #ffffff;
+  height: 40px;
+  width: 130px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  border: none;
 }
