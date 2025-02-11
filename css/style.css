@@ -172,4 +172,28 @@ table {
   font-family: 'Montserrat-Bold';
   font-size: 30px;
   text-align: center;
+  padding-bottom: 10px;
+}
+.treatment-title h2{
+  font-family: 'Montserrat-Bold';
+  font-size: 60px;
+  text-align: center;
+  color: #944867;
+}
+.treatment img{
+  margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.treatment h2{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 10px;
+}
+.treatment h3{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 20px;
 }
