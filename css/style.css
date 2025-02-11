@@ -112,6 +112,11 @@ table {
 .about-bg{
  
 }
+.title-img img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .about h2{
   font-family: 'Montserrat-Bold';
   font-size: 60px;
@@ -181,19 +186,18 @@ table {
   color: #944867;
 }
 .treatment img{
-  margin-top: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 .treatment h2{
   text-align: center;
   font-size: 25px;
   padding-top: 10px;
 }
-.treatment h3{
-  text-align: center;
-  font-size: 40px;
-  padding-top: 20px;
+.our-activity{
+  background: #40c0d9;
+}
+.activity h2{
+  
 }
