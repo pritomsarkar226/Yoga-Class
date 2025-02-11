@@ -66,6 +66,9 @@ table {
 	font-family: 'Roboto-Bold';
 	src: url(../fonts/Roboto-Bold.ttf);
   }
+  section{
+    margin-top: 100px;
+  }
 .navbar{
     background:#40c0d9;
 }
@@ -157,4 +160,9 @@ table {
   font-size: 20px;
   border-radius: 20px;
   border: none;
+}
+.slogan h2{
+  color: #944867;
+  font-family: 'Montserrat-Bold';
+  font-size: 30px;
 }
