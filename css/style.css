@@ -165,4 +165,11 @@ table {
   color: #944867;
   font-family: 'Montserrat-Bold';
   font-size: 30px;
+  text-align: center;
+}
+.slogan h3{
+  color: #944867;
+  font-family: 'Montserrat-Bold';
+  font-size: 30px;
+  text-align: center;
 }
