@@ -203,7 +203,7 @@ table {
   font-size: 60px;
   color: #ffffff;
   padding-left: 10%;
-  padding-top: 35%;
+  padding-top: 40%;
 }
 .activity h3{
   font-family: 'open-sans.regular';
@@ -211,4 +211,16 @@ table {
   color: #ffffff;
   padding-left: 10%;
   padding-top: 20px;
+}
+.activity button{
+  background: #944867;
+  color: #ffffff;
+  height: 40px;
+  width: 130px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  border: none;
+  margin-left: 10%;
+  margin-top: 20px;
 }
