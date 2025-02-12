@@ -138,7 +138,18 @@ table {
 .about ul li a{
   text-decoration: none;
   font-size: 25px;
-  color:  #944867;
+  color: #ffffff; 
+}
+.about ul li a i{
+  
+  padding: 10px 10px;
+  border-radius: 100%;
+}
+.about ul li a i:hover{
+  background: #eb5757;
+}
+.about-us{
+  background: #40c0d9;
 }
 .choice h2{
   font-family: 'Montserrat-Bold';
