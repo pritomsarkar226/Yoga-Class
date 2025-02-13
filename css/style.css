@@ -161,6 +161,10 @@ table {
   font-size: 30px;
   color: #707070;
   padding-bottom: 20px;
+  
+}
+.choice ul li i{
+  margin-right: 10px;
 }
 .choich-img{
   display: block;
