@@ -240,3 +240,14 @@ table {
   margin-left: 10%;
   margin-top: 20px;
 }
+.shop img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.prize h2{
+  font-size: 40px;
+  color: #707070;
+  font-family: 'open-sans.regular';
+  text-align: center;
+}
