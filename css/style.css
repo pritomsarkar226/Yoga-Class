@@ -194,11 +194,12 @@ table {
   text-align: center;
   padding-bottom: 10px;
 }
-.treatment-title h2{
+.div-title h2{
   font-family: 'Montserrat-Bold';
   font-size: 60px;
   text-align: center;
   color: #944867;
+  text-transform: uppercase;
 }
 .treatment img{
     display: block;
