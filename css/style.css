@@ -252,3 +252,18 @@ table {
   text-align: center;
   padding-top: 10px;
 }
+.prize h3{
+  font-size:20px;
+  color: #252525;
+  text-align: center;
+  padding-top: 20px;
+}
+.prize button{
+  height: 40px;
+  width: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  border-radius: 20px;
+}
