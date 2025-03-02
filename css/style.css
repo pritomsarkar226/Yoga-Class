@@ -259,8 +259,10 @@ table {
   padding-top: 20px;
 }
 .prize button{
+  margin-top: 20px;
   height: 40px;
-  width: 1px;
+  width: 130px;
+  font-size: 20px;
   display: block;
   margin-left: auto;
   margin-right: auto;
